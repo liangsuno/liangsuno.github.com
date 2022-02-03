@@ -6,6 +6,7 @@ layout: default
 
 ## REST
 [OpenAPI](./knowledge/IT/openapi/)
+[Prism](./knowledge/IT/prism/)
 
 ## Validation
 [Linter](./knowledge/IT/linter/)
