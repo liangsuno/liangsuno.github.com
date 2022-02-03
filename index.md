@@ -2,5 +2,13 @@
 layout: default
 ---
 
-[OpenAPI](./knowledge/openapi/)
-[Linter](./knowledge/linter/)
+# Technical
+
+## REST
+[OpenAPI](./knowledge/IT/openapi/)
+
+## Validation
+[Linter](./knowledge/IT/linter/)
+
+## Template
+[Liquid](./knowledge/IT/Liquid)
