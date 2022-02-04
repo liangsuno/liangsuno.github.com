@@ -14,3 +14,6 @@ layout: default
 
 ## Template
 [Liquid](./knowledge/IT/Liquid)
+
+## Chinese Medicine
+[Ni Hai Xia](./knowledge/chinese-medicine/nihaixia)
