@@ -10,6 +10,7 @@ layout: default
 
 ## Validation
 [Linter](./knowledge/IT/linter/)
+[joi](./knowledge/IT/joi/)
 
 ## Template
 [Liquid](./knowledge/IT/Liquid)
