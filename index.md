@@ -9,7 +9,7 @@ layout: default
 [Prism](./knowledge/IT/prism/)
 
 ## Validation
-[Linter](./knowledge/IT/linter/)
+[Spectral](./knowledge/IT/spectral/)
 [joi](./knowledge/IT/joi/)
 
 ## Template
